@@ -1,0 +1,7 @@
+name: puc-mlops-ead-environment
+dependencies:
+  - python=3.9
+  - pip
+  - greenlet
+  - pip:
+      - -r requirements.txt
